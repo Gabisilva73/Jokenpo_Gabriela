@@ -6,9 +6,9 @@
 
 #### Regras de negócio 
 
-RN01 - O código deve permitir que todas as rodadas passadas sejam consultadas
-RN02 - O código deve permitir que as rodadas sejam comparadas, com a finalidade de determinar um vencedor ou declarar empate
-RN03 - O código deve permitir que apenas participantes legítimos possam jogar
-RN04 - O código deve restringir a modificação de dados críticos do contrato apenas ao seu dono.
+RN01 - O código deve permitir que todas as rodadas passadas sejam consultadas <br>
+RN02 - O código deve permitir que as rodadas sejam comparadas, com a finalidade de determinar um vencedor ou declarar empate <br>
+RN03 - O código deve permitir que apenas participantes legítimos possam jogar <br>
+RN04 - O código deve restringir a modificação de dados críticos do contrato apenas ao seu dono. <br>
 
 

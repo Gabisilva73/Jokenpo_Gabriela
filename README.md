@@ -11,4 +11,4 @@ RN02 - O código deve permitir que as rodadas sejam comparadas, com a finalidade
 RN03 - O código deve permitir que apenas participantes legítimos possam jogar
 RN04 - O código deve restringir a modificação de dados críticos do contrato apenas ao seu dono.
 
-#### Testes no Remix IDE 
+
